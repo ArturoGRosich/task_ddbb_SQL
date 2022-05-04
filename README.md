@@ -10,3 +10,5 @@
 ![BBDD_4](https://user-images.githubusercontent.com/92529346/166710666-d1d1e4d6-4c5d-4cf8-a3e8-6617469fb6ef.png)
 ## Exercise 5
 ![BBDD_5](https://user-images.githubusercontent.com/92529346/166712878-14f59088-1105-4ad6-b688-2f87ac75b797.png)
+## Exercise 6
+![BBDD_6](https://user-images.githubusercontent.com/92529346/166720247-e044eb2d-13df-48b6-b1ed-55268888a945.png)
